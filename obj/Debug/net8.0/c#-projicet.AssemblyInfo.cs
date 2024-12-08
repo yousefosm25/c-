@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c#-projicet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d72740851c4df7cf474f07f07aed374b61a3df2")]
 [assembly: System.Reflection.AssemblyProductAttribute("c#-projicet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c#-projicet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
