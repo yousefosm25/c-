@@ -12,3 +12,4 @@
 /home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.pdb
 /home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.genruntimeconfig.cache
 /home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/ref/c#-projicet.dll
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.sourcelink.json
