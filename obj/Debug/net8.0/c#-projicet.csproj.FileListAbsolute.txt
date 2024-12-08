@@ -1,0 +1,14 @@
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.GeneratedMSBuildEditorConfig.editorconfig
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.AssemblyInfoInputs.cache
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.AssemblyInfo.cs
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.csproj.CoreCompileInputs.cache
+/home/yousef/Desktop/c#-projicet/bin/Debug/net8.0/c#-projicet
+/home/yousef/Desktop/c#-projicet/bin/Debug/net8.0/c#-projicet.deps.json
+/home/yousef/Desktop/c#-projicet/bin/Debug/net8.0/c#-projicet.runtimeconfig.json
+/home/yousef/Desktop/c#-projicet/bin/Debug/net8.0/c#-projicet.dll
+/home/yousef/Desktop/c#-projicet/bin/Debug/net8.0/c#-projicet.pdb
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.dll
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/refint/c#-projicet.dll
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.pdb
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/c#-projicet.genruntimeconfig.cache
+/home/yousef/Desktop/c#-projicet/obj/Debug/net8.0/ref/c#-projicet.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tELQhM5YEIHykYwsA6B0gSSs5fSYq329paC+bppjAPo69QZJ1itjmJnVdnmfXx+uzwDJky+3cmMXdHynNMNQ7w==",
+  "success": true,
+  "projectFilePath": "/home/yousef/Desktop/c#-projicet/c#-projicet.csproj",
+  "expectedPackageFiles": [
+    "/home/yousef/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
